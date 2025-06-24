@@ -80,9 +80,9 @@ WSGI_APPLICATION = 'cmsproject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'cms_api_proj',
+        'NAME': 'cmsproject',
         'USER': 'root',
-        'PASSWORD': 'password',
+        'PASSWORD': 'mysql@123',
         'HOST': 'localhost',
         'PORT': 3306,
     }
