@@ -1,0 +1,7 @@
+__pycache_/
+ 
+myenv/
+
+#ignore migration
+
+**/migration/*.py
